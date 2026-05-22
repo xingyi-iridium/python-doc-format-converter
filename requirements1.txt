@@ -1,0 +1,25 @@
+# 文件格式转换助手 - 依赖清单
+
+# Web 框架
+streamlit>=1.28.0
+
+# PDF 处理
+PyMuPDF>=1.23.0
+
+# Word 文档处理
+python-docx>=1.1.0
+
+# 图片处理
+Pillow>=10.0.0
+
+# PDF 生成
+reportlab>=4.0.0
+
+# AI API 客户端
+openai>=1.0.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# Word 转 PDF（Windows 需要 Microsoft Word）
+docx2pdf>=0.1.8
